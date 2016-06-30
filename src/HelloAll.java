@@ -9,6 +9,7 @@ public class HelloAll {
 		//I created a new branch of the project newfeature
 		//I imported this newfeature branch to eclipse 
 		System.out.println("Hi from me again"); //With this line of code I made a change to the newfeature branch
+		// I merged new feature to master
 	}
 
 }
